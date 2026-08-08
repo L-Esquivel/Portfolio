@@ -18,7 +18,7 @@ function App() {
     <div className="app-container">
       <div className="container">
         <nav>
-          <div className="logo">LF.</div>
+          <div className="logo">LE.</div>
           <div className="nav-links" style={{ alignItems: 'center' }}>
             <a href="#projects">{t.nav.projects}</a>
             <a href="#skills">{t.nav.skills}</a>

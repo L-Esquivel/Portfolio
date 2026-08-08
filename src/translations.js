@@ -43,8 +43,7 @@ export const translations = {
           { icon: 'users', text: 'Arquitectura escalable lista para integraciones OAuth.' }
         ],
         links: {
-          github: "https://github.com/L-Esquivel/Precivox",
-          live: "#"
+          github: "https://github.com/L-Esquivel/Precivox"
         }
       },
       {
@@ -57,23 +56,21 @@ export const translations = {
           { icon: 'code', text: 'Entrega exitosa bajo presupuesto y deadlines estrictos.' },
           { icon: 'shield', text: 'Demuestra capacidad de llevar un producto de la idea a producción.' }
         ],
-        links: {
-          live: "https://mekmanagement.com"
-        }
+        links: {}
       }
     ],
     skillCategories: [
       {
         title: "Security & Architecture",
-        skills: ["RBAC", "Multi-tenancy", "OAuth", "API Design", "Rate Limiting", "Tenant Isolation"]
+        skills: ["RBAC", "Multi-tenancy", "OAuth 2.0", "Rate Limiting", "Tenant Isolation", "API Design"]
       },
       {
-        title: "Backend & DevSecOps",
-        skills: ["Node.js", "Express", "PostgreSQL", "Docker", "CI/CD", "Security Auditing"]
+        title: "Backend & DevOps",
+        skills: ["Python", "Flask", "PostgreSQL", "Docker", "Gunicorn", "Git"]
       },
       {
-        title: "Frontend & Delivery",
-        skills: ["React", "Recharts", "Vite", "CSS Arquitecture", "WordPress", "Client Management"]
+        title: "Frontend",
+        skills: ["React", "JavaScript (ES6+)", "Vite", "Recharts", "i18n"]
       }
     ]
   },
@@ -121,8 +118,7 @@ export const translations = {
           { icon: 'users', text: 'Scalable architecture ready for OAuth integrations.' }
         ],
         links: {
-          github: "https://github.com/L-Esquivel/Precivox",
-          live: "#"
+          github: "https://github.com/L-Esquivel/Precivox"
         }
       },
       {
@@ -135,23 +131,21 @@ export const translations = {
           { icon: 'code', text: 'Successful delivery under budget and strict deadlines.' },
           { icon: 'shield', text: 'Demonstrates the ability to take a product from idea to production.' }
         ],
-        links: {
-          live: "https://mekmanagement.com"
-        }
+        links: {}
       }
     ],
     skillCategories: [
       {
         title: "Security & Architecture",
-        skills: ["RBAC", "Multi-tenancy", "OAuth", "API Design", "Rate Limiting", "Tenant Isolation"]
+        skills: ["RBAC", "Multi-tenancy", "OAuth 2.0", "Rate Limiting", "Tenant Isolation", "API Design"]
       },
       {
-        title: "Backend & DevSecOps",
-        skills: ["Node.js", "Express", "PostgreSQL", "Docker", "CI/CD", "Security Auditing"]
+        title: "Backend & DevOps",
+        skills: ["Python", "Flask", "PostgreSQL", "Docker", "Gunicorn", "Git"]
       },
       {
-        title: "Frontend & Delivery",
-        skills: ["React", "Recharts", "Vite", "CSS Architecture", "WordPress", "Client Management"]
+        title: "Frontend",
+        skills: ["React", "JavaScript (ES6+)", "Vite", "Recharts", "i18n"]
       }
     ]
   }
