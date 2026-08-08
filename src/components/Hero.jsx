@@ -45,7 +45,7 @@ export default function Hero({ t }) {
             alt="Luis Esquivel" 
             style={{
               width: '100%',
-              maxWidth: '380px',
+              maxWidth: '290px',
               aspectRatio: '1/1',
               objectFit: 'cover',
               objectPosition: 'center 20%',

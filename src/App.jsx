@@ -58,6 +58,18 @@ function App() {
           </section>
 
           <Skills t={t.skillsSection} categories={t.skillCategories} />
+          
+          <div style={{ padding: '0 0 4rem 0', display: 'flex', justifyContent: 'center' }}>
+            <div className="glass-panel" style={{ padding: '1.5rem 2rem', display: 'flex', flexDirection: 'column', gap: '1rem', alignItems: 'center', textAlign: 'center', maxWidth: '800px', width: '100%' }}>
+              <p style={{ color: 'var(--text-secondary)', fontSize: '0.95rem', lineHeight: '1.6' }}>
+                {t.educationSection.text}
+              </p>
+              <div style={{ background: 'rgba(59, 130, 246, 0.1)', border: '1px solid rgba(59, 130, 246, 0.2)', color: '#60a5fa', padding: '0.4rem 1rem', borderRadius: '20px', fontSize: '0.8rem', fontWeight: '600' }}>
+                {t.educationSection.certs}
+              </div>
+            </div>
+          </div>
+
           <Contact t={t.contactSection} />
         </main>
         

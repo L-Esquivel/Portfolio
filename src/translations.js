@@ -26,6 +26,10 @@ export const translations = {
       title: "Habilidades Técnicas",
       subtitle: "Tecnologías y conceptos que manejo para construir software de extremo a extremo."
     },
+    educationSection: {
+      text: "Formación en Investigación Criminal y Ciencias Forenses (UNAB) — un enfoque investigativo y basado en evidencia aplicado a la depuración y el pensamiento orientado a seguridad.",
+      certs: "En curso: Cisco Junior Cybersecurity Analyst · AWS Certified Junior Software Developer"
+    },
     contactSection: {
       title: "¿Hablamos?",
       subtitle: "Actualmente estoy abierto a nuevas oportunidades en roles remotos como Security-Oriented Full-Stack o DevSecOps."
@@ -100,6 +104,10 @@ export const translations = {
     skillsSection: {
       title: "Technical Skills",
       subtitle: "Technologies and concepts I use to build end-to-end software."
+    },
+    educationSection: {
+      text: "Background in Criminal Investigation & Forensic Sciences (UNAB) — an evidence-driven, investigative approach applied to debugging and security-oriented thinking.",
+      certs: "Currently pursuing: Cisco Junior Cybersecurity Analyst · AWS Certified Junior Software Developer"
     },
     contactSection: {
       title: "Let's Talk",
