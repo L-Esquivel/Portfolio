@@ -73,8 +73,8 @@ function App() {
           <Contact t={t.contactSection} />
         </main>
         
-        <footer>
-          <p>© {new Date().getFullYear()} Luis. {t.footer}</p>
+        <footer style={{ textAlign: 'center', padding: '2rem', color: 'var(--text-secondary)', fontSize: '0.875rem' }}>
+          <p>© {new Date().getFullYear()} Luis Esquivel.</p>
         </footer>
       </div>
     </div>
